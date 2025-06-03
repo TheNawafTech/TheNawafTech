@@ -1,18 +1,18 @@
 <!-- Nawaf Altuwairiqi GitHub Profile -->
 
-<h1 align="center">Welcome</h1>
+<h1 align="center">Hello and welcome</h1>
 
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I am Nawaf Altuwairiqi, a Full Stack Developer in training and a senior Computer Science student. I began my programming journey in 2022, driven by a strong desire to understand how systems work from the ground up.
+  I'm Nawaf Altuwairiqi, a backend-focused developer currently training as a Full Stack Developer. I'm also a senior Computer Science student with a strong interest in system design and problem solving.
   <br><br>
-  Through a structured roadmap, I developed solid backend skills and built a strong foundation in logical thinking by solving over 1500 coding challenges. This journey has enabled me to develop complete software solutions from scratch, and I continue to grow by working daily on real-world programming projects.
+  I started my programming journey in 2022. Since then, I've solved over 1500 coding challenges that helped shape my logical thinking and backend skills. I’ve built multiple applications from scratch and continue to develop my skills through daily hands-on coding and real-world projects.
 </p>
 
 <hr>
 
-<h2 align="center">Technical Skills</h2>
+<h2 align="center">Tools & Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -22,33 +22,33 @@
 </p>
 
 <p align="center">
-  Skilled in relational databases and SQL. Actively building backend systems using C++, C#, and the .NET ecosystem.
+  I work primarily with C++, C#, .NET, and SQL. My main strength is backend development with a focus on clean architecture and data handling.
 </p>
 
 <hr>
 
-<h2 align="center">Current Focus</h2>
+<h2 align="center">What I'm Working On</h2>
 
 <p align="center">
-  I am currently focused on backend development, particularly in mastering database structures, API architecture, and scalable backend systems.
+  I’m currently working on backend systems and complete software solutions that reflect real business needs. I also study full stack development to strengthen my frontend understanding.
   <br><br>
-  As part of my Full Stack Developer path, I work on end-to-end software development projects that reflect real business use cases. I have also earned certifications in programming and backend development, and I am gaining practical experience in an environment aligned with industry standards and expectations.
+  Alongside my studies, I’m gaining hands-on experience in an environment designed to match industry expectations, and I’m always exploring ways to build better, scalable systems.
 </p>
 
 <hr>
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Reach Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nawaf-altuwairiqi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://x.com/nabwras20162" target="_blank">
-    <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:Aboras1424@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Aboras1424@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
