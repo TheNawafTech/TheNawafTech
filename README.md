@@ -3,7 +3,7 @@
 <h1 align="center">Hello and welcome 👋</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheNawafTech/TheNawafTech/main/8adc7441-3525-4422-ab87-706a98a54750.png" alt="Nawaf Altuwairiqi Header" />
+  <img src="https://raw.githubusercontent.com/TheNawafTech/TheNawafTech/main/56003797-72c1-4eff-9fda-3a3dc515e084.png" alt="Nawaf Altuwairiqi Header" />
 </div>
 
 <h2 align="center">💻 About Me</h2>
@@ -45,15 +45,9 @@
 <h2 align="center">📫 Reach Me</h2>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/nawaf-altuwairiqi">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://x.com/nabwras20162?s=21&t=u2nNy2CqxR7Q8twAb83JkQ">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:Aboras1424@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Nawaf%20Altuwairiqi-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/X-@nabwras20162-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-Aboras1424@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
