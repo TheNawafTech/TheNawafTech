@@ -32,6 +32,16 @@
 
 <hr>
 
+<h2 align="center">🚀 What I'm Working On</h2>
+
+<p align="center">
+  I am currently focused on backend development, mastering database structures, API design, and scalable architectures. <br><br>
+  As a Full Stack Developer in training, I work on real-world software projects from scratch and follow modern software engineering practices.<br><br>
+  I have earned multiple certificates in programming and development, and I'm gaining hands-on experience in a work environment that simulates real-world industry standards and prepares me for the job market.
+</p>
+
+<hr>
+
 <h2 align="center">📫 Reach Me</h2>
 
 <p align="center">
