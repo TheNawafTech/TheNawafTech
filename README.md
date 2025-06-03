@@ -1,6 +1,12 @@
 <!-- Nawaf Altuwairiqi GitHub Profile -->
 
-<h1 align="center">Hello and welcome</h1>
+<h1 align="center" style="font-size: 40px;">Nawaf Altuwairiqi</h1>
+
+<p align="center">
+  <strong>Backend Developer</strong> &nbsp;|&nbsp; Full Stack Developer in Progress
+</p>
+
+<hr>
 
 <h2 align="center">About Me</h2>
 
