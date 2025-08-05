@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
 </p>
 
@@ -39,6 +40,20 @@
   I’m currently working on backend systems and complete software solutions that reflect real business needs. I also study full stack development to strengthen my frontend understanding.
   <br><br>
   Alongside my studies, I’m gaining hands-on experience in an environment designed to match industry expectations, and I’m always exploring ways to build better, scalable systems.
+</p>
+
+<hr>
+
+<h2 align="center">Projects Highlight</h2>
+
+<p align="center">
+  One of my key projects is a <strong>CRM System</strong> developed in two stages:
+  <br><br>
+  • The first version was built as a <strong>Console Application using C++</strong>, focusing on core logic and backend structure.
+  <br>
+  • The second version was enhanced using <strong>C# with Windows Forms</strong>, delivering a full graphical user interface with improved user experience and feature control.
+  <br><br>
+  These projects reflect my ability to transition from low-level logic to complete user-facing applications using real-world development tools.
 </p>
 
 <hr>
