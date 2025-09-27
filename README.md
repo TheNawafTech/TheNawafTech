@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size: 40px;">Nawaf Altuwairiqi</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong> &nbsp;|&nbsp; Full Stack Developer in Progress
+  <strong>Backend Developer</strong> &nbsp;|&nbsp; Full Stack Developer
 </p>
 
 <hr>
