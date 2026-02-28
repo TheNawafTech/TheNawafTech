@@ -52,9 +52,8 @@
     <li>The first version was built as a <strong>Console Application using C++</strong>, focusing on core logic and backend structure.</li>
     <li>The second version was enhanced using <strong>C# with Windows Forms</strong>, delivering a full graphical user interface with improved user experience and feature control.</li>
   </ul>
-  <p>Also recently, I finished a long project, <strong>National Licensing & Traffic Operations System (NLTOS)</strong>, using C# with Windows Forms, which benefited me programmatically and allowed me to apply important details and concepts.</p>
-  <p>Additionally, I developed a <strong>Banking System</strong> on the console application, which helped me solidify the fundamentals and backend processes. It included all banking operations and essential details.</p>
-  <p>I also worked on creating a website for the <strong>ATHAR Club</strong> under Taif University, where I developed the web features and user interface.</p>
+  <p>Before the CRM, I worked on a <strong>Banking System</strong> as my first project using a console application. This system helped me establish a strong foundation in backend logic, covering all core banking operations and essential details.</p>
+  <p>After the CRM, I completed a long project, the <strong>National Licensing & Traffic Operations System (NLTOS)</strong>, using C# with Windows Forms. This project benefited me programmatically and allowed me to apply important details and concepts.</p>
   <p>These projects reflect my ability to transition from low-level logic to complete user-facing applications using real-world development tools.</p>
 </div>
 
