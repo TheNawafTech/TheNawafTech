@@ -59,6 +59,14 @@
 
 <hr>
 
+<h2 align="center" style="color: #2E8B57;">My Strong Programming Foundation</h2>
+
+<p align="center" style="font-size: 18px; font-weight: bold; color: #2E8B57;">
+  Over the past two and a half years, my strong programming foundation has enabled me to learn new technologies quickly. I'm passionate about learning, practicing, and building projects every day. My curiosity drives me to constantly enhance my skills, ensuring I stay up-to-date with industry standards.
+</p>
+
+<hr>
+
 <h2 align="center">Reach Me</h2>
 
 <p align="center">
