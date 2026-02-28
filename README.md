@@ -54,6 +54,7 @@
   • The second version was enhanced using <strong>C# with Windows Forms</strong>, delivering a full graphical user interface with improved user experience and feature control.
   <br><br>
   These projects reflect my ability to transition from low-level logic to complete user-facing applications using real-world development tools.
+•Also recently I finished a long project, National Licensing & Traffic Operations System (NLTOS), using C# with Windows Forms, which benefited me programmatically and allowed me to apply important details and concepts.
 </p>
 
 <hr>
