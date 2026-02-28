@@ -52,7 +52,9 @@
   • The first version was built as a <strong>Console Application using C++</strong>, focusing on core logic and backend structure.
   <br>
   • The second version was enhanced using <strong>C# with Windows Forms</strong>, delivering a full graphical user interface with improved user experience and feature control.
-  • Also recently I finished a long project, <strong>National Licensing & Traffic Operations System (NLTOS)<strong>, using C# with Windows Forms, which benefited me programmatically and allowed me to apply important details and concepts.
+    
+  <br>
+  • Also recently I finished a long project, <strong> National Licensing & Traffic Operations System (NLTOS)</strong> , using C# with Windows Forms, which benefited me programmatically and allowed me to apply important details and concepts.
   <br><br>
   These projects reflect my ability to transition from low-level logic to complete user-facing applications using real-world development tools.
 </p>
