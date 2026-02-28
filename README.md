@@ -47,9 +47,9 @@
 <h2 align="center">Projects Highlight</h2>
 
 <div style="text-align: left;">
-  <p><li> - One of my key projects is a <strong>CRM System</strong> developed in two stages:</li></p>
+  <p><li>  One of my key projects is a <strong>CRM System</strong> developed in two stages:</li></p>
   <ul>
-    -The first version was built as a <strong>Console Application using C++</strong>, focusing on core logic and backend structure.
+    -The first version was built as a <strong>Console Application using C++</strong>, focusing on core logic and backend structure.<br>
     -The second version was enhanced using <strong>C# with Windows Forms</strong>, delivering a full graphical user interface with improved user experience and feature control.
   </ul>
   <p> <li>Before the CRM, I worked on a <strong>Banking System</strong> as my first project using a console application. This system helped me establish a strong foundation in backend logic, covering all core banking operations and essential details.</li></p>
