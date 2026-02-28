@@ -52,8 +52,8 @@
     <li>The first version was built as a <strong>Console Application using C++</strong>, focusing on core logic and backend structure.</li>
     <li>The second version was enhanced using <strong>C# with Windows Forms</strong>, delivering a full graphical user interface with improved user experience and feature control.</li>
   </ul>
-  <p>Before the CRM, I worked on a <strong>Banking System</strong> as my first project using a console application. This system helped me establish a strong foundation in backend logic, covering all core banking operations and essential details.</p>
-  <p>After the CRM, I completed a long project, the <strong>National Licensing & Traffic Operations System (NLTOS)</strong>, using C# with Windows Forms. This project benefited me programmatically and allowed me to apply important details and concepts.</p>
+  <p> <li>Before the CRM, I worked on a <strong>Banking System</strong> as my first project using a console application. This system helped me establish a strong foundation in backend logic, covering all core banking operations and essential details.</li></p>
+  <p><li>After the CRM, I completed a long project, the <strong>National Licensing & Traffic Operations System (NLTOS)</strong>, using C# with Windows Forms. This project benefited me programmatically and allowed me to apply important details and concepts.</li></p>
   <p>These projects reflect my ability to transition from low-level logic to complete user-facing applications using real-world development tools.</p>
 </div>
 
