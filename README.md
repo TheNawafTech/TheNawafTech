@@ -1,5 +1,7 @@
 <!-- Nawaf Altuwairiqi GitHub Profile -->
 
+<h2 align="center">Nawaf Altowairqi</h2>
+
 <p align="center">
   <img src="MyPhoto.jpeg" 
        width="340"
