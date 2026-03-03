@@ -1,33 +1,13 @@
 <!-- Nawaf Altuwairiqi GitHub Profile -->
 
-<!-- ===== Profile Header Section ===== -->
-
 <p align="center">
   <img src="MyPhoto.jpeg" 
-       width="170"
+       width="340"
        style="
-         border-radius: 50%;
-         border: 4px solid #2E8B57;
-         box-shadow: 0px 12px 25px rgba(0,0,0,0.20);
+         border-radius: 16px;
+         box-shadow: 0px 15px 35px rgba(0,0,0,0.25);
        " />
 </p>
-
-<h1 align="center" style="font-size: 42px; margin-bottom: 5px;">
-  Nawaf Altuwairiqi
-</h1>
-
-<p align="center" style="font-size:18px;">
-  <strong>Backend Developer</strong> &nbsp;|&nbsp; Full Stack Developer in Progress
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Development-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-2E8B57?style=for-the-badge" />
-</p>
-
-<br>
-<hr>
 
 <h2 align="center">About Me</h2>
 
