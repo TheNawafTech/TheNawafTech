@@ -7,6 +7,10 @@
          border-radius: 16px;
          box-shadow: 0px 15px 35px rgba(0,0,0,0.25);
        " />
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge" />
 </p>
 
 <h2 align="center">About Me</h2>
