@@ -1,5 +1,31 @@
 <!-- Nawaf Altuwairiqi GitHub Profile -->
 
+<!-- ===== Profile Header Section ===== -->
+
+<p align="center">
+  <img src="MyPhoto.jpeg" 
+       width="200"
+       style="
+         border-radius: 50%;
+         border: 5px solid #2E8B57;
+         box-shadow: 0px 15px 35px rgba(0,0,0,0.25);
+       " />
+</p>
+
+<h1 align="center" style="font-size: 44px; margin-bottom: 5px;">
+  Nawaf Altuwairiqi
+</h1>
+
+<p align="center" style="font-size:18px;">
+  <strong>Backend Developer</strong> &nbsp;|&nbsp; Full Stack Developer in Progress
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Professional-2E8B57?style=for-the-badge" />
+</p>
+
+<br>
+<hr>
 <h1 align="center" style="font-size: 40px;">Nawaf Altuwairiqi</h1>
 
 <p align="center">
