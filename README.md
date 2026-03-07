@@ -18,7 +18,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm Nawaf Altuwairiqi, a backend-focused developer currently training as a Full Stack Developer. I'm also a senior Computer Science student with a strong interest in system design and problem solving.
+  I'm Nawaf Altuwairiqi, a backend-focused developer currently training as a Full Stack Developer. I'm also a Computer Science student with a strong interest in system design and problem solving.
   <br><br>
   I started my programming journey in 2022. Since then, I've solved over 1500 coding challenges that helped shape my logical thinking and backend skills. I’ve built multiple applications from scratch and continue to develop my skills through daily hands-on coding and real-world projects.
 </p>
