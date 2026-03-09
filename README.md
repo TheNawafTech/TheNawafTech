@@ -67,39 +67,55 @@ I am currently focused on strengthening my backend development skills by continu
 At the same time, I am actively learning <strong>.NET Web API</strong> as part of the .NET ecosystem, while developing practical projects to gain hands-on experience in building modern backend services and RESTful APIs used in scalable web applications.
 </p>
 ---
-
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
-<strong>National Licensing & Traffic Operations System (NLTOS)</strong>  
-C# • Windows Forms • SQL Server • 3-Tier Architecture
-A large desktop system that simulates licensing and traffic operations while applying structured architecture and backend logic.
+<h3>National Licensing & Traffic Operations System (NLTOS)</h3>
+
+<p>
+<strong>C# • Windows Forms • SQL Server • 3-Tier Architecture</strong>
+</p>
+
+<p>
+A full desktop system designed to simulate licensing and traffic operations.  
+This project applies a structured <strong>3-Tier Architecture</strong> separating the Presentation, Business Logic, and Data Access layers, allowing for a scalable and maintainable system structure.
+</p>
 
 Repository  
 https://github.com/TheNawafTech/NLTOS
 
 <br><br>
 
-<strong>CRM System (Windows Forms Version)</strong>  
-C# • Windows Forms • SQL Server • 3-Tier Architecture
-A Customer Relationship Management system designed to manage clients and system users with structured backend logic and layered architecture.
+<h3>CRM System</h3>
+
+<p>
+<strong>C# • Windows Forms • SQL Server • 3-Tier Architecture</strong>
+</p>
+
+<p>
+A Customer Relationship Management system developed using a layered architecture to manage clients and system users while separating responsibilities between different parts of the application.
+</p>
 
 Repository  
 https://github.com/TheNawafTech/CRM-WinForms-App
 
 <br><br>
 
-<strong>Bank Management System</strong>  
-C++ • Console Application • OOP  
-A banking simulation system developed as a console application to implement core banking operations and strengthen backend programming fundamentals.
+<h3>Bank Management System</h3>
+
+<p>
+<strong>C++ • Console Application • Object-Oriented Programming</strong>
+</p>
+
+<p>
+A banking simulation system built as a console application to implement core banking operations and strengthen backend programming fundamentals using OOP principles.
+</p>
 
 Repository  
 https://github.com/TheNawafTech/Bank-System
 
 </div>
-
----
 
 <h2 align="center">My Programming Foundation</h2>
 
