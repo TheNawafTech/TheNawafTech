@@ -62,11 +62,10 @@ This approach allows me to design scalable and maintainable software systems whi
 <h2 align="center">What I'm Currently Working On</h2>
 
 <p align="center">
-I am currently focused on improving my backend development skills by building structured applications that simulate real-world business systems.
+I am currently focused on strengthening my backend development skills by continuously building structured applications that simulate real-world business systems.
 <br><br>
-In the upcoming phase of my learning journey, I plan to deepen my expertise in the .NET ecosystem by learning <strong>.NET Web API</strong>, allowing me to design modern backend services and RESTful APIs used in scalable web applications.
+At the same time, I am actively learning <strong>.NET Web API</strong> as part of the .NET ecosystem, while developing practical projects to gain hands-on experience in building modern backend services and RESTful APIs used in scalable web applications.
 </p>
-
 ---
 
 <h2 align="center">Featured Projects</h2>
