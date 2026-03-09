@@ -55,7 +55,7 @@ Most of my projects are backend-oriented systems designed using <strong>3-Tier A
 <br><br>
 I consistently build new backend projects to apply software architecture principles and improve my ability to design scalable and maintainable systems.
 </p>
----
+
 
 <h2 align="center">What I'm Currently Working On</h2>
 
@@ -64,7 +64,7 @@ I am currently focused on strengthening my backend development skills by continu
 <br><br>
 At the same time, I am actively learning <strong>.NET Web API</strong> as part of the .NET ecosystem, while developing practical projects to gain hands-on experience in building modern backend services and RESTful APIs used in scalable web applications.
 </p>
----
+
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
