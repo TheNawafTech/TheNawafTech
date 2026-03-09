@@ -82,7 +82,7 @@ https://github.com/TheNawafTech/NLTOS
 <br><br>
 
 <strong>CRM System (Windows Forms Version)</strong>  
-C# • Windows Forms • SQL Server • 3-Tier Architecture  
+C# • Windows Forms • SQL Server • 3-Tier Architecture
 A Customer Relationship Management system designed to manage clients and system users with structured backend logic and layered architecture.
 
 Repository  
