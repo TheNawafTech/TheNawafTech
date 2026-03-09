@@ -73,7 +73,7 @@ At the same time, I am actively learning <strong>.NET Web API</strong> as part o
 <div align="center">
 
 <strong>National Licensing & Traffic Operations System (NLTOS)</strong>  
-C# • Windows Forms • System Design  
+C# • Windows Forms • SQL Server • 3-Tier Architecture
 A large desktop system that simulates licensing and traffic operations while applying structured architecture and backend logic.
 
 Repository  
