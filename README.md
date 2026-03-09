@@ -20,13 +20,12 @@
 ---
 
 <h2 align="center">About Me</h2>
-
 <p align="center">
 I'm Nawaf Altowairqi, a backend-focused developer and Computer Science student with a strong interest in backend systems, software architecture, and problem solving.
 <br><br>
 I began my programming journey in 2022. Since then, I have solved over <strong>1500 coding challenges</strong>, which significantly strengthened my logical thinking and algorithmic problem-solving skills.
 <br><br>
-I enjoy building complete systems from scratch and focusing on the backend side of software development, particularly designing structured applications and managing data effectively.
+As a backend developer, I focus on building complete software systems from scratch and continuously develop new projects to strengthen my understanding of system architecture, data handling, and real-world backend development.
 </p>
 
 ---
@@ -54,9 +53,8 @@ My main focus is backend development using C++, C#, .NET, and SQL Server, with a
 <p align="center">
 Most of my projects are backend-oriented systems designed using <strong>3-Tier Architecture</strong>, separating applications into Presentation, Business Logic, and Data Access layers.
 <br><br>
-This approach allows me to design scalable and maintainable software systems while keeping responsibilities clearly separated across the application.
+I consistently build new backend projects to apply software architecture principles and improve my ability to design scalable and maintainable systems.
 </p>
-
 ---
 
 <h2 align="center">What I'm Currently Working On</h2>
