@@ -56,6 +56,7 @@ Most of my projects are backend-oriented systems designed using <strong>3-Tier A
 I consistently build new backend projects to apply software architecture principles and improve my ability to design scalable and maintainable systems.
 </p>
 
+---
 
 <h2 align="center">What I'm Currently Working On</h2>
 
@@ -64,6 +65,8 @@ I am currently focused on strengthening my backend development skills by continu
 <br><br>
 At the same time, I am actively learning <strong>.NET Web API</strong> as part of the .NET ecosystem, while developing practical projects to gain hands-on experience in building modern backend services and RESTful APIs used in scalable web applications.
 </p>
+
+---
 
 <h2 align="center">Featured Projects</h2>
 
@@ -114,6 +117,44 @@ Repository
 https://github.com/TheNawafTech/Bank-System
 
 </div>
+
+---
+
+<h2 align="center">Web Platforms I Built</h2>
+
+<div align="center">
+
+<h3>Personal Portfolio Website</h3>
+
+<p>
+<strong>HTML • CSS • JavaScript</strong>
+</p>
+
+<p>
+Designed and developed my personal portfolio website to present my projects, technical background, and software development journey.
+</p>
+
+🌐 Website  
+https://altowairqi.com/
+
+<br><br>
+
+<h3>Athar Club Official Website</h3>
+
+<p>
+<strong>Website Development</strong>
+</p>
+
+<p>
+Built the official website for Athar Club, creating a digital platform that showcases the club’s programs, initiatives, and activities.
+</p>
+
+🌐 Website  
+https://athar-club.com/
+
+</div>
+
+---
 
 <h2 align="center">My Programming Foundation</h2>
 
