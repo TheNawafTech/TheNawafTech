@@ -21,7 +21,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm Nawaf Altowairqi, a backend-focused developer and Computer Science student with a strong interest in backend systems, software architecture, and problem solving.
+Nawaf Altowairqi, a backend-focused developer and Computer Science student with a strong interest in backend systems, software architecture, and problem solving.
 <br><br>
 I began my programming journey in 2022. Since then, I have solved over <strong>1500 coding challenges</strong>, which significantly strengthened my logical thinking and algorithmic problem-solving skills.
 <br><br>
