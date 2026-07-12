@@ -57,13 +57,12 @@ I consistently build new backend projects to apply software architecture princip
 </p>
 
 ---
-
 <h2 align="center">What I'm Currently Working On</h2>
 
 <p align="center">
-I am currently focused on strengthening my backend development skills by continuously building structured applications that simulate real-world business systems.
+I am currently focused on continuously advancing my software development expertise by building structured, secure, and scalable applications that address real-world business needs.
 <br><br>
-At the same time, I am actively learning <strong>.NET Web API</strong> as part of the .NET ecosystem, while developing practical projects to gain hands-on experience in building modern backend services and RESTful APIs used in scalable web applications.
+I work on developing complete software solutions using the <strong>.NET ecosystem</strong>, with a strong focus on software architecture, clean code, system design, performance, security, and maintainability.
 </p>
 
 ---
