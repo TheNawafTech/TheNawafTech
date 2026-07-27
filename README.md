@@ -3,12 +3,18 @@
 <h2 align="center">Nawaf Altowairqi</h2>
 
 <p align="center">
-  <img src="MyPhoto.jpeg" 
+  <img src="MyPhoto.jpeg"
        width="280"
        style="
          border-radius: 16px;
          box-shadow: 0px 15px 35px rgba(0,0,0,0.25);
        " />
+</p>
+
+<p align="center">
+  <strong>Personal projects and continuous learning.</strong>
+  <br>
+  Professional work is maintained in private repositories.
 </p>
 
 <p align="center">
@@ -20,12 +26,13 @@
 ---
 
 <h2 align="center">About Me</h2>
+
 <p align="center">
-Nawaf Altowairqi, a backend-focused developer with a strong interest in backend systems, software architecture, and problem solving.
+I am a backend-focused software developer interested in building structured, secure, and maintainable software systems.
 <br><br>
-I began my programming journey in 2022. Since then, I have solved over <strong>1500 coding challenges</strong>, which significantly strengthened my logical thinking and algorithmic problem-solving skills.
+I began my programming journey in 2022. Since then, I have solved over <strong>1,500 coding challenges</strong>, significantly strengthening my logical thinking, programming fundamentals, and algorithmic problem-solving skills.
 <br><br>
-As a backend developer, I focus on building complete software systems from scratch and continuously develop new projects to strengthen my understanding of system architecture, data handling, and real-world backend development.
+My current focus is backend development using the <strong>.NET ecosystem</strong>, including ASP.NET Core, REST APIs, Entity Framework Core, and SQL Server. I continuously build personal projects to improve my understanding of software architecture, data handling, security, performance, and real-world backend development.
 </p>
 
 ---
@@ -33,17 +40,27 @@ As a backend developer, I focus on building complete software systems from scrat
 <h2 align="center">Tools & Technologies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOLID%20Principles-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
 <p align="center">
-My main focus is backend development using C++, C#, .NET, and SQL Server, with a strong emphasis on building structured applications using clean architecture principles and layered system design.
+My primary focus is backend development with C#, ASP.NET Core, Entity Framework Core, REST APIs, and SQL Server.
+<br><br>
+I apply clean code practices, SOLID principles, separation of concerns, dependency injection, and structured architectural patterns to build maintainable software systems.
 </p>
 
 ---
@@ -51,18 +68,21 @@ My main focus is backend development using C++, C#, .NET, and SQL Server, with a
 <h2 align="center">Backend Development Focus</h2>
 
 <p align="center">
-Most of my projects are backend-oriented systems designed using <strong>3-Tier Architecture</strong>, separating applications into Presentation, Business Logic, and Data Access layers.
+My earlier projects were built using traditional <strong>3-Tier Architecture</strong>, separating the Presentation, Business Logic, and Data Access layers.
 <br><br>
-I consistently build new backend projects to apply software architecture principles and improve my ability to design scalable and maintainable systems.
+As my experience has developed, my current work has expanded toward modern backend practices using <strong>ASP.NET Core Web APIs</strong>, Entity Framework Core, dependency injection, DTOs, service layers, authentication, authorization, exception handling, and clean architecture principles.
+<br><br>
+My goal is to build backend systems that are structured, testable, secure, maintainable, and aligned with professional software development practices.
 </p>
 
 ---
+
 <h2 align="center">What I'm Currently Working On</h2>
 
 <p align="center">
-I am currently focused on continuously advancing my software development expertise by building structured, secure, and scalable applications that address real-world business needs.
+I am currently advancing my backend development expertise by building structured and secure applications that address real-world business requirements.
 <br><br>
-I work on developing complete software solutions using the <strong>.NET ecosystem</strong>, with a strong focus on software architecture, clean code, system design, performance, security, and maintainability.
+My current learning and project work focuses on ASP.NET Core Web APIs, Entity Framework Core, SQL Server, software architecture, clean code, system design, performance, security, error handling, API integrations, and maintainability.
 </p>
 
 ---
@@ -78,12 +98,13 @@ I work on developing complete software solutions using the <strong>.NET ecosyste
 </p>
 
 <p>
-A full desktop system designed to simulate licensing and traffic operations.  
-This project applies a structured <strong>3-Tier Architecture</strong> separating the Presentation, Business Logic, and Data Access layers, allowing for a scalable and maintainable system structure.
+A comprehensive desktop system designed to simulate licensing and traffic operations.
+The application uses a structured 3-Tier Architecture that separates the Presentation, Business Logic, and Data Access layers, providing clear separation of responsibilities and a maintainable system structure.
 </p>
 
-Repository  
-https://github.com/TheNawafTech/NLTOS
+<a href="https://github.com/TheNawafTech/NLTOS">
+  <strong>View Repository</strong>
+</a>
 
 <br><br>
 
@@ -94,11 +115,13 @@ https://github.com/TheNawafTech/NLTOS
 </p>
 
 <p>
-A Customer Relationship Management system developed using a layered architecture to manage clients and system users while separating responsibilities between different parts of the application.
+A Customer Relationship Management system developed to manage clients and system users.
+The application follows a layered architecture that separates user-interface operations, business rules, and database access.
 </p>
 
-Repository  
-https://github.com/TheNawafTech/CRM-WinForms-App
+<a href="https://github.com/TheNawafTech/CRM-WinForms-App">
+  <strong>View Repository</strong>
+</a>
 
 <br><br>
 
@@ -109,11 +132,12 @@ https://github.com/TheNawafTech/CRM-WinForms-App
 </p>
 
 <p>
-A banking simulation system built as a console application to implement core banking operations and strengthen backend programming fundamentals using OOP principles.
+A banking simulation system built as a console application to implement core banking operations and strengthen programming fundamentals using object-oriented programming principles.
 </p>
 
-Repository  
-https://github.com/TheNawafTech/Bank-System
+<a href="https://github.com/TheNawafTech/Bank-System">
+  <strong>View Repository</strong>
+</a>
 
 </div>
 
@@ -133,8 +157,9 @@ https://github.com/TheNawafTech/Bank-System
 Designed and developed my personal portfolio website to present my projects, technical background, and software development journey.
 </p>
 
-🌐 Website  
-https://altowairqi.com/
+<a href="https://altowairqi.com/">
+  <strong>Visit Website</strong>
+</a>
 
 <br><br>
 
@@ -145,11 +170,12 @@ https://altowairqi.com/
 </p>
 
 <p>
-Built the official website for Athar Club, creating a digital platform that showcases the club’s programs, initiatives, and activities.
+Built the official website for Athar Club, creating a digital platform that presents the club’s programs, initiatives, and activities.
 </p>
 
-🌐 Website  
-https://athar-club.com/
+<a href="https://athar-club.com/">
+  <strong>Visit Website</strong>
+</a>
 
 </div>
 
@@ -157,10 +183,12 @@ https://athar-club.com/
 
 <h2 align="center">My Programming Foundation</h2>
 
-<p align="center" style="font-size:17px;">
-Over the past two and a half years, I have built a strong programming foundation that allows me to quickly learn new technologies and frameworks.
+<p align="center">
+Over the past several years, I have built a strong programming foundation that enables me to learn new technologies, frameworks, and architectural approaches efficiently.
 <br><br>
-I believe that strong fundamentals in algorithms, system design, and backend logic are essential for building reliable software. This belief drives me to continuously practice coding, solve problems, and build real-world projects.
+I believe strong fundamentals in algorithms, object-oriented programming, database design, software architecture, and backend logic are essential for building reliable software systems.
+<br><br>
+This foundation continues to support my transition from foundational desktop applications toward modern backend development and professional software engineering practices.
 </p>
 
 ---
