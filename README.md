@@ -11,15 +11,10 @@
        " />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>This profile showcases selected personal projects and continuous learning.</strong>
-      <br>
-      Professional production work is developed and maintained in private company repositories.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Selected earlier personal projects are public.</strong><br>
+  Professional work is maintained in private repositories.
+</p>
 
 
 <p align="center">
