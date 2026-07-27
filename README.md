@@ -11,11 +11,16 @@
        " />
 </p>
 
-<p align="center">
-  <strong>Personal projects and continuous learning.</strong>
-  <br>
-  Professional work is maintained in private repositories.
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>This profile showcases selected personal projects and continuous learning.</strong>
+      <br>
+      Professional production work is developed and maintained in private company repositories.
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-2E8B57?style=for-the-badge" />
